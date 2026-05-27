@@ -6,7 +6,7 @@ A modular implementation of a Transformer architecture using abstracted reusable
 
 ## Project Overview
 
-This project was developed as part of a **Research & Development Internship Assignment** for **NVSKZEN**.
+
 
 The objective of the project is to:
 
